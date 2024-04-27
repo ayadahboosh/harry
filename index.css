@@ -1,0 +1,34 @@
+
+
+body {
+    background-color: rgba(246, 182, 100, 0.814);
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    border-spacing: 0px ;
+    height: 400px;
+    width: 520px;
+    
+}
+
+td , th {
+    border: solid ;
+    text-align: center;
+  
+}
+
+th {
+    font-size: 20px;
+   
+    background-color:rgba(0, 255, 60, 0.16) ;
+}
+
+td {
+    font-size: 20px;
+background-color:rgba(77, 204, 85, 0.081) ;
+}
